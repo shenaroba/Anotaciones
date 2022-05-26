@@ -1,0 +1,9 @@
+Crear entorno virtual:
+
+> python -m venv (nombre_entorno_virtual)
+
+Iniciar entorno virtual:
+
+> (nombre_entorno_virtual)\Scripts\activate
+
+Nota: verificar siempre ruta en consola para asegurarse que estamos en entorno virtual.

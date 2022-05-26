@@ -1,0 +1,17 @@
+django-admin startproject project_name
+
+python manage.py startapp app_name
+
+python manage.py create superuser
+
+python manage.py makemigrations
+
+python manage.py migrate
+
+python manage.py runserver 8000
+
+python manage.py changepassword username
+
+Exportar datos Importar datos:
+python manage.py dumpdata appname > appname.json
+python manage.py loaddata appname.json

@@ -1,0 +1,3 @@
+Crear archivo Requeriments para instalar librerias del proyecto.
+
+>pip freeze > Requeriments.txt

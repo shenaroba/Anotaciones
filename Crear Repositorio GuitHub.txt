@@ -1,0 +1,12 @@
+Crear Repositorio GitHub:
+
+>echo "# (NOMBRE_DEL_REPOSITORIO)" >> README.md
+>git init
+>git add README.md
+>git status
+>git add -A
+>git status
+>git commit -m "first commit"
+>git branch -M main
+>git remote add origin (URL_DEL_REPOSITORIO)
+>git push -u origin main
